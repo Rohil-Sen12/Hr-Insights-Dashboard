@@ -1,4 +1,4 @@
-# Hr-Insights-Dashboard
+# 👥 Hr-Insights-Dashboard
 The HR Insight Dashboard provides a comprehensive view of an organization’s workforce by tracking employee demographics, attrition trends, job roles, performance, and satisfaction levels.
 It helps HR teams and management identify workforce patterns, monitor employee turnover, and make data-driven HR decisions to improve retention and productivity.
 
