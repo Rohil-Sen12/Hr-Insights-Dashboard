@@ -22,6 +22,9 @@ Microsoft Excel
 
 4.KPI Cards.
 
+## 🔗 Connect with me on LinkedIn
+
+👉https://www.linkedin.com/in/rohil-sen-813702392/
 #ExcelDashboard
 #ExcelProjects
 #ExcelSkills
