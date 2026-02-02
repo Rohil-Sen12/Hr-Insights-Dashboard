@@ -6,6 +6,12 @@ It helps HR teams and management identify workforce patterns, monitor employee t
 - Dashboard <a href='https://github.com/Rohil-Sen12/Hr-Insights-Dashboard/blob/main/Hr%20Insights%20Dashboard.png'>
 Dashboard-view</a>
 
+
+
+## 🔗 Connect with me on LinkedIn
+
+👉https://www.linkedin.com/in/rohil-sen-813702392/
+
 Tools & Technologies Used
 
 Microsoft Excel
@@ -16,15 +22,11 @@ Microsoft Excel
 
 3.Slicers for interactive filtering
 
+4.KPI Cards.
 
 <img width="1513" height="982" alt="Hr Insights Dashboard" src="https://github.com/user-attachments/assets/316ca2ba-99a6-4265-a803-8dd2d548141c" />
 
 
-4.KPI Cards.
-
-## 🔗 Connect with me on LinkedIn
-
-👉https://www.linkedin.com/in/rohil-sen-813702392/
 #ExcelDashboard
 #ExcelProjects
 #ExcelSkills
