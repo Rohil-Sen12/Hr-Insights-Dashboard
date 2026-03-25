@@ -40,9 +40,13 @@ o	Displayed key metrics like:
 	Job Satisfaction Score 
 ________________________________________
 💼 Business Impact
+
 •	Helps HR teams identify high-risk attrition areas 
+
 •	Supports better workforce planning and hiring strategies 
+
 •	Improves employee engagement and retention policies 
+
 •	Enables faster and smarter HR decision-making
 
 
