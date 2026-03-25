@@ -4,7 +4,9 @@ The HR Insight Dashboard provides a comprehensive view of an organization’s wo
 It helps HR teams and management identify workforce patterns, monitor employee turnover, and make data-driven HR decisions to improve retention and productivity.
 
 📊 Dashboard Preview
+
 •	🔍 View Dashboard:
+
 <a href='https://github.com/Rohil-Sen12/Hr-Insights-Dashboard/blob/main/Hr%20Insights%20Dashboard.png'>Dashboard View</a> 
 
 
