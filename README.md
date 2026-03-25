@@ -33,42 +33,10 @@ ________________________________________
 
 •	Enabled quick decision-making using interactive filters 
 ________________________________________
-🛠️ Tools & Technologies Used
-
-•	Microsoft Excel 
-
-Key Features Implemented:
-
-1.	Data Cleaning & Preprocessing
-   
-Removed inconsistencies and handled missing values 
-
-Standardized data for accurate analysis 
-
-3.	Pivot Tables & Pivot Charts
- 
-Summarized large datasets into meaningful insights
 
 
-Created dynamic visualizations 
-
-
-5.	Slicers (Interactive Filters)
-6.	
-	Enabled user-friendly filtering by department, role, etc.
- 
-8.	KPI Cards
     
-Displayed key metrics like:
 
-
-Total Employees
-
-Attrition Rate
-
-Average Age
-
-Job Satisfaction Score 
 ________________________________________
 💼 Business Impact
 
